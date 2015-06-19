@@ -1,0 +1,16 @@
+How does data get displayed in the View?  Flow?
+
+HTTP Verbs?
+
+Convention
+
+REST ?
+
+@variables ?
+
+ActiveRecord::Base
+
+Mediator btwn data & controller
+
+
+Why use db:migrate?
